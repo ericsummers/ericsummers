@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric!</h1>
 
-<h2>🛜 Networking Projects</h2>
+<h2>🛜 Networking Projects:</h2>
 
 
 
