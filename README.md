@@ -1,7 +1,7 @@
 <h1>Hi, I'm Eric!</h1>
 
 <h2> 👋 About Me</h2>
-Aspiring System Administrator | IT Support Professional | Exploring Windows Server, PowerShell, Active Directory, Networking, Cloud, and Automation. Building projects and sharing my learning journey one commit at a time.Aspiring System Administrator | IT Support Professional | Exploring Windows Server, PowerShell, Active Directory, Networking, Cloud, and Automation. Building projects and sharing my learning journey one commit at a time. Enjoy!
+Aspiring System Administrator | IT Support Professional | Exploring Windows Server, PowerShell, Active Directory, Networking, Cloud, and Automation. Building projects and sharing my learning journey one commit at a time. Enjoy!
 
 <h2>👨‍💻 System Admininstration Projects:</h2>
   
