@@ -5,7 +5,7 @@ Aspiring System Administrator | IT Support Professional | Exploring Windows Serv
 
 <h2>👨‍💻 System Admininstration Projects:</h2>
 
-[Oracle VM - Windows Server Install] (https://github.com/ericsummers/OracleVM-WindowsServerInstall)
+- [Oracle VM - Windows Server Install](https://github.com/ericsummers/OracleVM-WindowsServerInstall/blob/main/README.md)
   
 <h2> 🤳 Connect with me:</h2>
 
