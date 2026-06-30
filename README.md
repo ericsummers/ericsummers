@@ -4,6 +4,8 @@
 Aspiring System Administrator | IT Support Professional | Exploring Windows Server, PowerShell, Active Directory, Networking, Cloud, and Automation. Building projects and sharing my learning journey one commit at a time. Enjoy!
 
 <h2>👨‍💻 System Admininstration Projects:</h2>
+
+[Oracle VM - Windows Server Install] (https://github.com/ericsummers/OracleVM-WindowsServerInstall)
   
 <h2> 🤳 Connect with me:</h2>
 
